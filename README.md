@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on Nextjs, AWS, webSocket<br> 💻 Like to work on SaaS, web Technologies<br> 🔍 I’m looking to collaborate on SaaS, webDev projects
+ 🔭 I’m currently working on Flutter<br> 💻 Like to work on Web3<br> 🔍 I’m looking to collaborate on MERN Projects
 
 
 ## 🌐 Socials:
