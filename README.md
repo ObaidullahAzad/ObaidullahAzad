@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Obaidullah Azad
  🔭 I’m currently working on Flutter<br> 💻 Like to work on Web3<br> 🔍 I’m looking to collaborate on MERN Projects
 
 
